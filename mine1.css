@@ -338,7 +338,7 @@ letter-spacing: 2px;
    
     color: white;
     padding-top: 7px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
 }
 
 #imgprt #extra #name2{
@@ -379,6 +379,6 @@ letter-spacing: 2px;
     padding-top: 15px;
 
 }
-#imgprt h1{
+#imgprt #target h1{
     opacity: 30%;
 }
